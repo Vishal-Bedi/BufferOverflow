@@ -1,3 +1,3 @@
 # BufferOverflow
 
-Bruteforce Canary values
+Defeating Stack Canaries
